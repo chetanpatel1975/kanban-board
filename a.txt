@@ -1,0 +1,3 @@
+https://medium.com/@wkrzywiec/how-to-run-database-backend-and-frontend-in-a-single-click-with-docker-compose-4bcda66f6de
+
+https://github.com/wkrzywiec/kanban-board     original git repository
